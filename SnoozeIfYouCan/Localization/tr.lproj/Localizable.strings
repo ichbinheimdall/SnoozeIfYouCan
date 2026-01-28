@@ -1,0 +1,145 @@
+/* 
+  Localizable.strings (Turkish)
+  SnoozeIfYouCan
+
+  Turkish translations for Snooze If You Can app
+*/
+
+// MARK: - Common
+"Snooze If You Can" = "Ertelersen Öde";
+"Cancel" = "İptal";
+"Done" = "Tamam";
+"Save" = "Kaydet";
+"Delete" = "Sil";
+"Edit" = "Düzenle";
+"Settings" = "Ayarlar";
+"Error" = "Hata";
+"Success" = "Başarılı";
+"OK" = "Tamam";
+
+// MARK: - Alarm
+"Alarms" = "Alarmlar";
+"Add Alarm" = "Alarm Ekle";
+"Edit Alarm" = "Alarmı Düzenle";
+"Time" = "Saat";
+"Label" = "Etiket";
+"Alarm" = "Alarm";
+"Sound" = "Ses";
+"Snooze" = "Ertele";
+"Repeat" = "Tekrar";
+"Once" = "Bir kez";
+"Every day" = "Her gün";
+"Weekdays" = "Hafta içi";
+"Weekends" = "Hafta sonu";
+"No Alarms" = "Alarm Yok";
+"Tap + to add your first alarm.\nSnoozing costs money—but it goes to a great cause!" = "+ butonuna basarak ilk alarmını ekle.\nErtelemek para ödeme—ama güzel bir amaç için!";
+"Active" = "Aktif";
+"Inactive" = "Pasif";
+"Test" = "Test";
+
+// MARK: - Active Alarm
+"I'm Awake!" = "Uyandım!";
+"Snooze Cost" = "Erteleme Ücreti";
+"Donated to Darüşşafaka" = "Darüşşafaka'ya bağışlandı";
+"Confirm Snooze" = "Ertelemeyi Onayla";
+"Snooze #%d" = "Erteleme #%d";
+"Maximum snoozes reached!" = "Maksimum erteleme sayısına ulaşıldı!";
+"Time to wake up! No more snoozing." = "Uyanma vakti! Artık erteleme yok.";
+"You'll be charged %@. This donation supports education at Darüşşafaka." = "%@ ödeme yapılacak. Bu bağış Darüşşafaka'da eğitimi destekler.";
+"Pay %@ & Snooze" = "%@ Öde ve Ertele";
+
+// MARK: - Impact
+"Your Impact" = "Etkin";
+"Total Donated" = "Toplam Bağış";
+"This Week" = "Bu Hafta";
+"This Month" = "Bu Ay";
+"Wake-up Streak" = "Uyanış Serisi";
+"%d days" = "%d gün";
+"Total Snoozes" = "Toplam Erteleme";
+"Snooze-free Wake-ups" = "Ertelemsiz Uyanışlar";
+"Achievements" = "Başarılar";
+"Share Your Impact" = "Etkini Paylaş";
+"Weekly Activity" = "Haftalık Aktivite";
+
+// MARK: - Onboarding
+"Welcome to Snooze If You Can" = "Ertelersen Öde'ye Hoş Geldin";
+"The alarm app that turns your snoozes into donations." = "Ertelemeleri bağışa çeviren alarm uygulaması.";
+"How It Works" = "Nasıl Çalışır";
+"Every time you hit snooze, a small donation goes to charity. The more you snooze, the more it costs!" = "Her ertelemede küçük bir bağış hayır kurumuna gider. Ne kadar ertelersan, o kadar pahalı!";
+"Support Education" = "Eğitimi Destekle";
+"Your donations support students at Darüşşafaka, providing free education to children in need." = "Bağışların Darüşşafaka'daki öğrencileri destekler, ihtiyacı olan çocuklara ücretsiz eğitim sağlar.";
+"Escalating Costs" = "Artan Ücretler";
+"1st snooze: $0.99\n2nd snooze: $1.99\n3rd snooze: $2.99\n4th snooze: $4.99\n5th snooze: $9.99\n\nAfter 5 snoozes, you must wake up!" = "1. erteleme: ₺32\n2. erteleme: ₺64\n3. erteleme: ₺96\n4. erteleme: ₺160\n5. erteleme: ₺320\n\n5 ertelemeden sonra uyanmak zorundasın!";
+"Stay On Track" = "Yolda Kal";
+"We need notification permissions to wake you up on time." = "Seni zamanında uyandırmak için bildirim izni gerekiyor.";
+"Get Started" = "Başla";
+"Next" = "İleri";
+"Skip" = "Atla";
+"Enable Notifications" = "Bildirimleri Aç";
+
+// MARK: - Settings
+"Account" = "Hesap";
+"Preferences" = "Tercihler";
+"Default Sound" = "Varsayılan Ses";
+"Vibration" = "Titreşim";
+"Volume" = "Ses Seviyesi";
+"Increasing Volume" = "Artan Ses";
+"Snooze Duration" = "Erteleme Süresi";
+"About" = "Hakkında";
+"About Darüşşafaka" = "Darüşşafaka Hakkında";
+"Privacy Policy" = "Gizlilik Politikası";
+"Terms of Service" = "Kullanım Şartları";
+"Support" = "Destek";
+"Contact Us" = "Bize Ulaşın";
+"Rate the App" = "Uygulamayı Değerlendir";
+"Version %@" = "Sürüm %@";
+"iCloud Sync" = "iCloud Senkronizasyonu";
+"Focus Mode Settings" = "Odak Modu Ayarları";
+
+// MARK: - Social
+"Social" = "Sosyal";
+"Accountability Partners" = "Hesap Ortakları";
+"Add Partner" = "Ortak Ekle";
+"Invite a Friend" = "Arkadaş Davet Et";
+"Your Circle" = "Çevren";
+"No partners yet" = "Henüz ortak yok";
+"Add friends to keep each other accountable!" = "Birbirinizi sorumlu tutmak için arkadaş ekle!";
+"Notify when I snooze" = "Ertelediğimde bildir";
+"Leaderboard" = "Sıralama";
+"%@ snoozed again 😴" = "%@ yine erteledi 😴";
+
+// MARK: - Weekdays
+"Sunday" = "Pazar";
+"Monday" = "Pazartesi";
+"Tuesday" = "Salı";
+"Wednesday" = "Çarşamba";
+"Thursday" = "Perşembe";
+"Friday" = "Cuma";
+"Saturday" = "Cumartesi";
+"Sun" = "Paz";
+"Mon" = "Pzt";
+"Tue" = "Sal";
+"Wed" = "Çar";
+"Thu" = "Per";
+"Fri" = "Cum";
+"Sat" = "Cmt";
+
+// MARK: - Errors
+"Purchase failed. Please try again." = "Ödeme başarısız. Lütfen tekrar deneyin.";
+"Network error. Please check your connection." = "Ağ hatası. Lütfen bağlantınızı kontrol edin.";
+"Notifications are disabled. Please enable them in Settings to use alarms." = "Bildirimler kapalı. Alarmları kullanmak için Ayarlar'dan açın.";
+"Something went wrong. Please try again." = "Bir şeyler ters gitti. Lütfen tekrar deneyin.";
+
+// MARK: - Notifications
+"Time to rise and shine!" = "Kalkma vakti!";
+"Snooze finished. Time to wake up!" = "Erteleme bitti. Uyanma vakti!";
+
+// MARK: - Achievements
+"Early Bird" = "Erken Kuş";
+"Dismiss alarm before 6 AM" = "Sabah 6'dan önce alarmı kapat";
+"Week Warrior" = "Hafta Savaşçısı";
+"7-day snooze-free streak" = "7 günlük ertelemsiz seri";
+"Generous Giver" = "Cömert Bağışçı";
+"Donate over $50 total" = "Toplam 50$'dan fazla bağış yap";
+"Social Butterfly" = "Sosyal Kelebek";
+"Add 5 accountability partners" = "5 hesap ortağı ekle";
